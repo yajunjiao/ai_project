@@ -20,6 +20,7 @@ def get_chapter_content(chapter_url):
         paragraphs = content_div.find_all('p')
         return '\n'.join([p.get_text(strip=False) for p in paragraphs])
     except Exception as e:
+        print(f'获取章节内容时出错: {str(e)}')  # 添加具体错误信息
         return None
 
 
