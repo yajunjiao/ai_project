@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RuntimeLineDraw-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProject\VehicleProject\Intermediate\Build\Win64\x64\VehicleProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.h.obj"
+"D:\UEProject\VehicleProject\Plugins\RuntimeLineDraw\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RuntimeLineDraw\Module.RuntimeLineDraw.cpp.obj"
+"D:\UEProject\VehicleProject\Plugins\RuntimeLineDraw\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RuntimeLineDraw\Default.rc2.res"
+/OUT:"D:\UEProject\VehicleProject\Plugins\RuntimeLineDraw\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RuntimeLineDraw\UnrealEditor-RuntimeLineDraw-Win64-DebugGame.lib"

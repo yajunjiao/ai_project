@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "Runtime Line Draw",
+  "Description": "Draw lines at runtime (works in Shipping/Release) via ULineBatchComponent.",
+  "Category": "Rendering",
+  "CreatedBy": "ChatGPT",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "SupportURL": "",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "RuntimeLineDraw",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

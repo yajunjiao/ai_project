@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ueproject\\vehicleproject\\plugins\\runtimelinedraw\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\runtimelinedraw\\module.runtimelinedraw.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ueproject\\vehicleproject\\intermediate\\build\\win64\\x64\\vehicleproject\\shipping\\engine\\sharedpch.engine.rtti.cpp20.h.pch",
+        "Includes": [
+            "d:\\ueproject\\vehicleproject\\plugins\\runtimelinedraw\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\runtimelinedraw\\definitions.runtimelinedraw.h",
+            "d:\\ueproject\\vehicleproject\\plugins\\runtimelinedraw\\intermediate\\build\\win64\\unrealgame\\inc\\runtimelinedraw\\uht\\runtimelinedraw.init.gen.cpp",
+            "d:\\ueproject\\vehicleproject\\plugins\\runtimelinedraw\\intermediate\\build\\win64\\unrealgame\\inc\\runtimelinedraw\\uht\\runtimelinedrawer.gen.cpp",
+            "d:\\ueproject\\vehicleproject\\plugins\\runtimelinedraw\\source\\runtimelinedraw\\public\\runtimelinedrawer.h",
+            "d:\\ueproject\\vehicleproject\\plugins\\runtimelinedraw\\intermediate\\build\\win64\\unrealgame\\inc\\runtimelinedraw\\uht\\runtimelinedrawer.generated.h",
+            "d:\\ueproject\\vehicleproject\\plugins\\runtimelinedraw\\source\\runtimelinedraw\\private\\runtimelinedrawer.cpp",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\linebatchcomponent.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\linebatchcomponent.generated.h",
+            "d:\\ueproject\\vehicleproject\\plugins\\runtimelinedraw\\source\\runtimelinedraw\\private\\runtimelinedrawmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RuntimeLineDraw.cpp.obj": [
+			"RuntimeLineDraw.init.gen.cpp.obj",
+			"RuntimeLineDrawer.gen.cpp.obj",
+			"RuntimeLineDrawer.cpp.obj"
+		]
+	}
+}
