@@ -22,10 +22,6 @@ def get_chapter_content(chapter_url):
     except Exception as e:
         return None
 
-# 确保《三国演义》文件夹存在
-save_dir = '《三国演义1》'
-if not os.path.exists(save_dir):
-    os.makedirs(save_dir)
 
 # 《三国演义》目录页URL
 base_url = 'https://www.shicimingju.com'
@@ -39,6 +35,11 @@ headers = {
     'Accept-Language': 'zh-CN,zh;q=0.9'
 }
 def download_chapter_content():
+    # 确保《三国演义》文件夹存在
+    save_dir = '《三国演义》'
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir)
+        
     try:
         # 获取目录页内容
         print('开始获取《三国演义》目录...')
